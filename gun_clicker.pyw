@@ -506,7 +506,7 @@ def main():
     root = tk.Tk()
 
     try:
-        root.iconbitmap("gunclicker.ico")
+        root.iconbitmap("./img/gunclicker.ico")
     except Exception as e:
         print(f"アイコン設定エラー: {e}")
 

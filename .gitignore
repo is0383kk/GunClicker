@@ -26,10 +26,6 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# アイコンや実行ファイル
-*.ico
-*.exe
-
 # ログや一時ファイル
 *.log
 *.tmp
