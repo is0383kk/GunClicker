@@ -11,25 +11,31 @@ Use cases
 - Other games or tasks that involve clicking and leaving the screen idle
 
 ## 🖱️ How to use
+
 Double-click “gun_clicker.exe” included in the package to launch the program.
-![](https://github.com/is0383kk/Web-dev-tools/blob/main/img/gunclicker.png)
+![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker.png)
+
 1. Select Key/Click Actions
+
 - Click the "Key" button to register a key or mouse action.
 - The button text will prompt you to press a key or mouse button (left/right click) to set the action.
 - You can register multiple actions by pressing the "+" button.
 - Remove actions with the "-" button.
 
 2. Set Clicks per Second
+
 - Enter the number of clicks or key actions per second in the input field next to "Clicks per second:".
 - For example, entering "5" will perform the action 5 times per second.
 
 3. Start / Stop
+
 - At the top right, the message shows "Press F9 to Start / F10 to Stop".
 - Press F9 to start, and F10 to stop the action.
 - These hotkeys work even when the app window is not in focus or you are using other apps.
 - The status at the bottom shows the current state ("Press F9 to Start" / "Press F10 to Stop" etc.).
 
 4. Other
+
 - Press the "日本語" button to switch the UI to Japanese.
 - Any errors during setup or operation will be shown as dialog messages.
 
@@ -61,18 +67,11 @@ Double-click “gun_clicker.exe” included in the package to launch the program
 
 ```sh
 $ pip install pyinstaller
+$ pip install keyboard
 $ pyinstaller --onefile --windowed gun_clicker.pyw --icon=gunclicker.ico
 ```
 
 The built EXE will be at **dist/GunClicker.exe**
-
-## 💾 About the icon
-
-Include and specify gunclicker.ico for the application icon.
-
-## 📝 License
-
-This project is open-sourced under the MIT License.
 
 ---
 
@@ -91,25 +90,31 @@ F9 キーで開始、F10 キーで停止、複数のキー/クリックの割り
 ---
 
 ## 🖱️ 使い方
+
 同梱の「gun_clicker.exe」をダブルクリックで起動してください。
-![](https://github.com/is0383kk/Web-dev-tools/blob/main/img/gunclicker_ja.png)
+![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker_ja.png)
+
 1. キー/クリックアクションの選択
+
 - 「キー選択」ボタンを押すと、設定したいキーやマウスクリックを登録できます。
 - ボタンを押すと「キーを入力してください」という表示になり、登録したいキーやマウスクリック（左クリック or 右クリック）を押してください。
 - 複数のキー/クリックを登録したい場合は「+」ボタンで追加できます。
 - 「-」ボタンでアクションの削除もできます。
 
 2. 秒間クリック数の設定
+
 - 「一秒間に ◯ 回キー処理をします」欄で、実行したいクリック/キー入力の回数を数字で入力します。
-- 例：5を入力すると1秒に5回実行されます。
+- 例：5 を入力すると 1 秒に 5 回実行されます。
 
 3. 開始／停止
-- 画面右上に**「F9で開始／F10で停止」**のガイダンスが表示されます。
-- F9キーを押すと開始、F10キーで停止します。
+
+- 画面右上に**「F9 で開始／F10 で停止」**のガイダンスが表示されます。
+- F9 キーを押すと開始、F10 キーで停止します。
 - このホットキーはアプリ画面の外、他のアプリ操作中でも有効です。
-- 画面下のステータス表示（「F9で開始」「F10で停止」等）が現在の状態を示します。
+- 画面下のステータス表示（「F9 で開始」「F10 で停止」等）が現在の状態を示します。
 
 4. その他
+
 - 「ENGLISH」ボタンを押すと英語表示に切り替えできます。
 - 設定・操作中にエラーが出た場合はダイアログで案内されます。
 - Python や追加のインストールは不要です。
@@ -139,12 +144,9 @@ F9 キーで開始、F10 キーで停止、複数のキー/クリックの割り
 `pyinstaller`で単体実行ファイル化できます：
 
 ```sh
-pip install pyinstaller
-pyinstaller --onefile --windowed gun_clicker.pyw --icon=gunclicker.ico
+$ pip install pyinstaller
+$ pip install keyboard
+$ pyinstaller --onefile --windowed gun_clicker.pyw --icon=gunclicker.ico
 ```
 
 生成物は **dist/GunClicker.exe** になります
-
-## 📝 ライセンス
-
-This project is open-sourced under the MIT License.
