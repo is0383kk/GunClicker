@@ -12,6 +12,7 @@ Use cases
 
 ## 🖱️ How to use
 
+Download the compressed file from the [release](https://github.com/is0383kk/GunClicker/releases/tag/20250818_v1.0.0) page.
 Double-click “gun_clicker.exe” included in the package to launch the program.
 ![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker.png)
 
@@ -91,6 +92,7 @@ F9 キーで開始、F10 キーで停止、複数のキー/クリックの割り
 
 ## 🖱️ 使い方
 
+[リリースページ](https://github.com/is0383kk/GunClicker/releases/tag/20250818_v1.0.0)から圧縮ファイルをダウンロードしてください。
 同梱の「gun_clicker.exe」をダブルクリックで起動してください。
 ![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker_ja.png)
 
