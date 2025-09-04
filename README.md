@@ -10,7 +10,7 @@ Use cases
 - Cookie Clicker
 - Other games or tasks that involve clicking and leaving the screen idle
 
-![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker＿ぎｆ.gif)
+![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker_gif.gif)
 
 ## 🖱️ How to use
 
