@@ -10,9 +10,7 @@ Use cases
 - Cookie Clicker
 - Other games or tasks that involve clicking and leaving the screen idle
 
-![](https://www.bing.com/images/search?view=detailV2&ccid=QwupQ7XC&id=9949603A20267A5A7437F678BAE48383F748505A&thid=OIP.QwupQ7XCvL1LFQvoRZnO-AHaEK&mediaurl=https%3A%2F%2Fcdn.cloudflare.steamstatic.com%2Fsteam%2Fapps%2F1353300%2Fss_62d0248e9ab13ae84595c85478bc7d76e2a24b87.1920x1080.jpg%3Ft%3D1677781076&exph=1080&expw=1920&q=Idle+slayer&FORM=IRPRST&ck=2C03CB1C7AAAD52093AAE96D418B11F3&selectedIndex=1&itb=0&cw=1721&ch=832&ajaxhist=0&ajaxserp=0)
-
-![](https://www.bing.com/images/search?view=detailV2&ccid=HPu7xrWk&id=FBD95756D246FEA7115411EBD60193AEE64F3685&thid=OIP.HPu7xrWkXUyZ6eOfrdgfGQHaEK&mediaurl=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F1454400%2Fss_2c271b91a8b7f55699231e3bc16c4c2a9493f11e.1920x1080.jpg%3Ft%3D1693349581&exph=1080&expw=1920&q=cookie+clicker&FORM=IRPRST&ck=038DA74E4422E09D77D1DCACF0979541&selectedIndex=7&itb=0&cw=1721&ch=832&ajaxhist=0&ajaxserp=0)
+![](https://github.com/is0383kk/GunClicker/blob/main/img/gunclicker.gif)
 
 ## 🖱️ How to use
 
